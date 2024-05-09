@@ -20,7 +20,7 @@ White Paper on “Aerospace Component Market and Scope of Digital Marketing in t
 
 Certifications: 
 Certificate of Completion “Technical Writing Master Course” (IIMSKILLS) Mar 1, 2024,
-Getting Started as a C# Developer (LinkedIn Learning) Feb 20, 2023,  
+Getting Started as a C# Developer (LinkedIn Learning) Feb 20, 2023
 Python for Everybody (University of Michigan) Aug2, 2019
 
 Soft Skills:
